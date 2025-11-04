@@ -1,0 +1,22 @@
+#navigator-toolbox
+{
+	margin-bottom: -1px !important;
+}
+
+#TabsToolbar
+{
+    visibility: collapse !important;
+    margin-top: 2px !important;
+}
+
+#sidebar-box #sidebar-header 
+{
+  display: none !important;
+}
+
+#Toolbar
+{
+	padding-block: 10px 10px !important;
+	writing-mode: horizontal-tb !important;
+}
+
